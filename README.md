@@ -5,6 +5,9 @@ Extracts article text from a web page
 ## Installation
 `npm install cheerio`
 
+## Usage
+
+### Load by provided URL
 ```js
 var artixtract = require('artixtract');
 
@@ -17,6 +20,8 @@ artixtract.loadUrl("https://github.com/avivklas")
         
     }).done();
 ```
+
+### Load by provided HTML
 
 ```js
 var artixtract = require('artixtract');
