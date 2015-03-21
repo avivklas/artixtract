@@ -27,5 +27,8 @@
     "cheerio": "latest",
     "q": "1.2.0",
     "request": "latest"
+  },
+  "devDependencies": {
+    "mocha": "*"
   }
 }
