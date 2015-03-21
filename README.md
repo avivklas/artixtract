@@ -1,4 +1,4 @@
-# artixtract
+# artixtract [![Build Status](https://travis-ci.org/avivklas/artixtract.svg?branch=master)](https://travis-ci.org/avivklas/artixtract)
 
 Extracts article text from a web page
 
