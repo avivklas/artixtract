@@ -3,7 +3,7 @@
 Extracts article text from a web page
 
 ## Installation
-`npm install cheerio`
+`npm install artixtract`
 
 ## Usage
 
