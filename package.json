@@ -1,6 +1,6 @@
 {
   "name": "artixtract",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Extracts article text from a webpage",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
   "dependencies": {
     "cheerio": "latest",
     "q": "1.2.0",
+    "random-ua": "0.0.6",
     "request": "latest"
   },
   "devDependencies": {
