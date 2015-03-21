@@ -7,7 +7,7 @@ Extracts article text from a web page
 
 ## Usage
 
-### Load by provided URL
+### Load using a URL
 ```js
 var artixtract = require('artixtract');
 
@@ -21,7 +21,7 @@ artixtract.loadUrl("https://github.com/avivklas")
     }).done();
 ```
 
-### Load by provided HTML
+### Load using an HTML
 
 ```js
 var artixtract = require('artixtract');
